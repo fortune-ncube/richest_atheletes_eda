@@ -7,7 +7,7 @@
 ## How to use
 
 1. Download the files in the files to your device.
-2. Open the Forbes Richest Athletes.ipynb in a Jupyter Notebook.
+2. Open the **Forbes Richest Athletes.ipynb** in a Jupyter Notebook.
 3. Run the notebook
 
 ## Output
