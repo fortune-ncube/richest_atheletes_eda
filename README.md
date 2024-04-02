@@ -27,6 +27,11 @@ The EDA includes the following analyses and visualizations:
 4. Endorsement Analysis: Investigating the role of endorsements in athletes' total earnings and their impact on rankings.
 5. Regional Analysis: Examining the geographical distribution of top-earning athletes and the dominance of specific regions.
 
+## Contents
+
+- `Forbes Richest Athletes.ipynb`: Jupyter Notebook containing the code for EDA.
+- `Forbes Richest Atheletes (Forbes Richest Athletes 1990-2020).csv`: CSV file containing the raw data.
+  
 ## Tools Used or Requirements
 
 The analysis was performed using Python programming language and various libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data manipulation, analysis, and visualization.
@@ -71,12 +76,6 @@ The notebook should generate visualisations that can be used for presentations b
 - Identification of the highest-earning athletes in different years and sports.
 - Analysis of the factors influencing athletes' earnings, including age, sport popularity, and endorsements.
 - Visualization of the distribution of earnings and its evolution over time.
-
-
-## Contents
-
-- `Forbes_Richest_Athletes_List_Analysis.ipynb`: Jupyter Notebook containing the code for EDA.
-- `forbes_athletes.csv`: CSV file containing the raw data.
 
 ## Conclusion
 
